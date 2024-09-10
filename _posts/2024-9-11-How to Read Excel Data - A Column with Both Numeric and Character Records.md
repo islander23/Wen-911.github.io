@@ -12,7 +12,8 @@ proc import datafile="F:\Mygit\blog\Wen-911.github.io\_posts\A Column with Both 
 run;
 ```
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e0f188ef-47ca-4f1c-8a70-566b6a2483c8)
+
 
 ## 2、try another method 
 ## 尝试用其他方法读入
@@ -30,4 +31,6 @@ data test2;
         ;
 run;
 ```
-![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/4de7f971-cab5-4f3b-9f54-63e7430af3b9)
+
